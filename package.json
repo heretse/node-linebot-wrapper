@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/heretse/node-linebot-wrapper/issues"
   },
-  "homepage": "https://github.com/heretse/node-linebot-wrapper#readme"
+  "homepage": "https://github.com/heretse/node-linebot-wrapper#readme",
+  "dependencies": {
+    "linebot": "^1.2.1"
+  }
 }
