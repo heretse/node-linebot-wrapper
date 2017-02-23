@@ -1,0 +1,26 @@
+{
+  "name": "node-linebot-wrapper",
+  "version": "1.0.0",
+  "description": "Create your own Line bot with registering a RegExp to test against an incomming text message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heretse/node-linebot-wrapper.git"
+  },
+  "keywords": [
+    "node.js",
+    "Line",
+    "Bot",
+    "Reply",
+    "Message"
+  ],
+  "author": "Winston Hsieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heretse/node-linebot-wrapper/issues"
+  },
+  "homepage": "https://github.com/heretse/node-linebot-wrapper#readme"
+}
